@@ -7,6 +7,7 @@ Content:
 
 EulerCode.xslx -> excel file containing simulation of Euler's method regarding the conventional SIR Model.
 
+
 References:
 
 [1] Law, K. B., Peariasamy, K. M., Ibrahim, H. Mohd., & Abdullah, N. H. (2021). Modelling infectious diseases with herd immunity in a randomly mixed population. https://doi.org/10.21203/rs.3.rs-289776/v7
