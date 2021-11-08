@@ -1,9 +1,9 @@
 # SIR-Modelling
-As a prerequisite in Math 121.1, this repository includes simulations and code not included in the paper due to attached data or format constraints.
+As a prerequisite in Math 121.1, this repository includes simulations and code with attached data or format constraints.
 
 Content:
 
-[HIT] Herd Immunity Threshold -> this folder contains the scripts and sample data in section 8 of my paper. Sample data used is fetched from a study in modelling infectious disease with herd immunity [1].
+[HIT] Herd Immunity Threshold -> this folder contains the scripts and sample data, most of which is fetched from a study in modelling infectious disease with herd immunity [1].
 
 EulerCode.xslx -> excel file containing simulation of Euler's method regarding the conventional SIR Model.
 
