@@ -3,7 +3,7 @@ As a prerequisite in Math 121.1, this repository includes simulations and code n
 
 Content:
 
-[HIT] Herd Immunity Threshold -> this folder contains the scripts and sample data in section 8 of my paper. Sample data used is fetched from a study in modelling infectious disease with herd immunity [2].
+[HIT] Herd Immunity Threshold -> this folder contains the scripts and sample data in section 8 of my paper. Sample data used is fetched from a study in modelling infectious disease with herd immunity [1].
 
 EulerCode.xslx -> excel file containing simulation of Euler's method regarding the conventional SIR Model.
 
